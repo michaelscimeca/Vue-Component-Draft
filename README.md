@@ -117,3 +117,17 @@ No Landcape - Covers up Screen when in landscape mode.
 
 
 
+# Age Gate
+| Age Gate |  Component |
+| ------ | ------ |
+| Modal Element | Takes element you want the parent modal to be |
+| Age | Takes in age to allow access |
+| Yes | Takes element for Yes |
+| No | Takes Element for No |
+
+
+## Features
+- Adds overflow hidden on HTML/Body Tag.
+- Uses Vue store to keep session cookie
+- Takes Age Number to get in.
+
